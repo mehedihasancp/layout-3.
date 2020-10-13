@@ -1,0 +1,42 @@
+header{
+    height: 100px;
+    background-color: aqua;
+}
+.content{
+    overflow: hidden;
+}
+    
+.left{
+    height: 600px;
+    background-color: blue;
+    width: 20%;
+    float: left;
+}
+.center{
+    height: 600px;
+    background-color: blueviolet;
+    width: 60%;
+    float: left;
+}
+.top{
+    height: 25%;
+    background-color: mediumpurple;
+}
+.middle{
+    height: 50%;
+    background-color: honeydew;
+}
+.bottom{
+    height: 25%;
+    background-color: rgb(7, 40, 66);
+}
+.right{
+    height: 600px;
+    background-color: teal;
+    width: 20%;
+    float: right;
+}
+footer{
+    height: 100px;
+    background-color: yellow;
+}
